@@ -33,6 +33,7 @@ git rebase —-continue
 
 //Add to new .gitconfig file
 defaults write com.apple.finder AppleShowAllFiles YES
+defaults write com.apple.finder AppleShowAllFiles NO
 [alias]
   co = checkout
   ci = commit
