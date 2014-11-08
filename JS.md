@@ -13,6 +13,9 @@ Special numbers :Infinity, -Infinity, NaN (Not a Number)
 Strings: 
 Single quotes or double quotes
 \n for new line within the string
+\t for tabstop
+\\ for \
+.length
 can add up strings
 “5” + 1 becomes 51 as 1 is converted to “1”
 But “5” - 1 becomes 4 as “5” is converted to an int
