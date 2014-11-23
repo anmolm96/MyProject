@@ -1,5 +1,4 @@
-Lecture 1:
-Why Start a Startup?
+Lecture 1 (Why Start a Startup?):
 * Idea Product Team and Execution
   * Idea: Pivots don't become big companies
   * Long-term planning.
@@ -43,3 +42,12 @@ Lecture 2:
   * a tiny bit of new users, company booms.
   * Relentless operating motive: Move fast, break things
   * While maintaining quality. And always keep momentum.
+
+Lecture 3 (Before the Startup):
+* Don't start a startup in college You can only be in your early 20s once.
+* Startups consume your life. Don't try to start a startup.
+* Work on side projects (aka Hackathon projects).
+* When these projects start to consume your time, you will realize that it is a
+* good product. Just Learn.
+
+Lecture 4 ()
