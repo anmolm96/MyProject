@@ -1,6 +1,6 @@
 Javascript commands:
 
-console.log() to do most stuff 
+console.log() to do most stuff
 
 Numbers:
 x en = x*10^n
@@ -10,7 +10,7 @@ x en = x*10^n
 Left to Right precedence
 Special numbers :Infinity, -Infinity, NaN (Not a Number)
 
-Strings: 
+Strings:
 Single quotes or double quotes
 \n for new line within the string
 \t for tabstop
@@ -40,4 +40,6 @@ var name = Type(prompt(“prompt”, “”);
 alert(“Print statement”);
 
 while loops
-
+
+Running Javascript script in an HTML file:
+<script src = "*.js"></script> in head
